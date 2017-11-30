@@ -1,0 +1,13 @@
+{
+  "name": "lerna",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "lerna": "^2.5.1"
+  },
+  "private": true
+}

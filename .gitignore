@@ -1,0 +1,8 @@
+node_modules
+.idea
+.idea/lerna.iml
+.idea/modules.xml
+.idea/vcs.xml
+.idea/workspace.xml
+lerna-debug.log
+npm-debug.log
